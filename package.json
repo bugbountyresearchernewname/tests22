@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "lodash": "4.17.20",    
+    "lodash": "4.17.21",    
     "express": "4.16.0",      
     "debug": "2.6.8",        
     "marked": "0.3.6",     
