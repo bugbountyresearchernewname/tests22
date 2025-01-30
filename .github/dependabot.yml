@@ -10,6 +10,10 @@ updates:
     labels:
       - "dependencies"
       - "security"
+    reviewers:
+      - "your-github-username"     # Assign a reviewer (optional)
+    assignees:
+      - "your-github-username"     # Auto-assign PRs to you (optional)
     allow:
       - dependency-type: "all"     # Allow all dependencies (not just prod)
     ignore:
