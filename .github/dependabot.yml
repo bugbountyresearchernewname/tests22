@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"      # Supports package.json
+  - package-ecosystem: "npm"      # S upports package.json
     directory: "/"                # Root directory of the project
     schedule:
       interval: "daily"            # Check for updates every day
