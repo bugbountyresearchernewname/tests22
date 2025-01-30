@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: "npm"      # S upports package.json
     directory: "/"                # Root directory of the project
     schedule:
-      interval: "daily"            # Check for updates every day
+      interval: "hourly"            # Check for updates every day
     open-pull-requests-limit: 5    # Maximum of 5 open PRs at a time
     commit-message:
       prefix: "chore(deps):"       # PR title prefix
